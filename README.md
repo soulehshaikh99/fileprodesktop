@@ -1,7 +1,7 @@
 # :books: File Pro Desktop :bar_chart:
 :rocket: :telescope: File Pro Desktop is a standalone or installed application which works seamlessly to achieve manipulation, conversion or other operations on selected file formats. All conversions or file operations performed are stored in the Software's default directory located immediately under the Documents folder of the User's machine named as File Pro Desktop. The Software maintains a history of file operations performed so that the user can view the history whenever he/she wants to.
 
-The File Formast Conversion Operations provided by this software:
+The File Format Conversion Operations provided by this software:
 1) Encrypt PDF (Lock PDF)
 2) Decrypt PDF (Unlock PDF)
 3) Merge PDFs
